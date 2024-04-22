@@ -1,0 +1,7 @@
+Heap created with a size of: 5
+
+value 1 is 5
+value 2 is 4
+value 3 is 3
+value 4 is 2
+value 5 is 1

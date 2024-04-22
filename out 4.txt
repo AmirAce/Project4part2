@@ -1,0 +1,41 @@
+Heap created with a size of: 20
+
+value 1 is : 2
+
+value 2 is : 3
+
+value 3 is : 4 
+
+value 4 is : 5
+
+value 5 is : 6
+
+value 6 is : 7
+
+value 7 is : 8
+
+value 8 is : 9
+
+value 9 is : 0
+
+value 10 is : 1
+
+value 11 is : 11
+
+value 12 is : 22
+
+value 13 is : 33
+
+value 14 is : 44
+
+value 15 is : 55
+
+value 16 is : 66
+
+value 17 is : 77
+
+value 18 is : 88
+
+value 19 is : 99
+
+value 20 is : 00

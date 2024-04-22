@@ -1,0 +1,7 @@
+Heap created with a size of: 4
+
+value 1 is 1
+value 2 is 3
+value 3 is 4
+value 4 is 5
+1 was removed, lowest current value is 3

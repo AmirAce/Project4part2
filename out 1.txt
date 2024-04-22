@@ -1,0 +1,13 @@
+Heap created with a size of: 7
+
+15
+23
+6
+90
+17
+value 1 is 15
+value 2 is 23
+value 3 is 6
+value 4 is 90
+value 5 is 17
+
